@@ -1,0 +1,28 @@
+{
+    "name": "pre-written-codes",
+    "title": "Pre-written Codes",
+    "description": "My expandable collection codes (JS, PHP, CSS ...)",
+    "homepage": "https://github.com/Barkanyi/pre-written-codes",
+    "version": "0.0.01",
+    "author": "Bárkányi Sándor <barkanyi.sandor@gmail.com>",
+    "license": "MIT",
+    "categories": "editing",
+    "keywords": [
+        "brackets",
+        "bootstrap",
+        "snippets",
+		"code",
+		"php",
+		"html",
+		"css",
+		"sql",
+		"js",
+		"jquery",
+		"javascript",
+		"template",
+		"shortcodes"
+    ],
+    "engines": {
+        "brackets": ">=1.6.0"
+    }
+}
